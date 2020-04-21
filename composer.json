@@ -11,7 +11,7 @@
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "^5.1|^6.0|^7.0",
-    "superbalist/flysystem-google-storage": "dev-master as 7.2.2",
+    "superbalist/flysystem-google-storage": "979885b4530a80fb7d77a0a052cda490e9e7e930",
     "illuminate/filesystem": "^5.1|^6.0|^7.0",
     "league/flysystem-cached-adapter": "^1.0"
   },
